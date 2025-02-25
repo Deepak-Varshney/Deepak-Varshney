@@ -1,4 +1,3 @@
-```markdown name=README.md
 # Hi there, I'm Deepak Varshney 👋
 
 I'm a passionate software engineer with a love for coding and problem-solving. I enjoy working on innovative projects and learning new technologies. Welcome to my GitHub profile!
@@ -8,7 +7,7 @@ I'm a passionate software engineer with a love for coding and problem-solving. I
 - 🌱 I’m currently learning advanced topics in machine learning and artificial intelligence.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [deepak.varshney@example.com](mailto:deepak.varshney@example.com)
+- 📫 How to reach me: [deepak.varshney@example.com](mailto:deepak.varshney@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature in my free time.
 
 ## 🛠️ Technologies & Tools
@@ -27,6 +26,3 @@ I'm a passionate software engineer with a love for coding and problem-solving. I
 ## 📫 Connect with Me
 - LinkedIn: [Deepak Varshney](https://www.linkedin.com/in/deepak-varshney)
 - Twitter: [@DeepakVarshney](https://twitter.com/DeepakVarshney)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
-```
