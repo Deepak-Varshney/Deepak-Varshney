@@ -1,7 +1,3 @@
-Here’s an updated version of your GitHub README that better reflects your resume, projects, and skills while preserving your tone:
-
----
-
 # Hi there, I'm Deepak Varshney 👋
 
 I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js. I thrive on solving real-world problems through code and building user-centric applications. Welcome to my GitHub!
@@ -79,3 +75,4 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 * 🌍 [Portfolio Website](https://deepakvarshney.vercel.app)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-varshney)
 * 🐦 [Twitter](https://twitter.com/DeepakVarshney)
+<!-- aGV0aWh1aGVib2RhQGRjcGEubmV0-->
