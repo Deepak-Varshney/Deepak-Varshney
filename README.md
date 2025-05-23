@@ -73,6 +73,6 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ## 🌐 Let's Connect
 
 * 🌍 [Portfolio Website](https://deepakvarshney.vercel.app)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-varshney)
-* 🐦 [Twitter](https://twitter.com/DeepakVarshney)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/deepakvarshney-exe)
+* 🐦 [Twitter](https://twitter.com/iDeepakVarshney)
 <!-- aGV0aWh1aGVib2RhQGRjcGEubmV0-->
